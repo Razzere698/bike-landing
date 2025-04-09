@@ -1,4 +1,25 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# MYBIKE Landing Page
+
+Landing page created based on the provided [Figma design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1).
+
+## 🔍 Preview
+
+- [DEMO LINK](https://razzere698.github.io/bike-landing/)
+
+## 🛠 Tech Stack
+
+- HTML5
+- SCSS (modular structure)
+
+## 📐 Features
+
+- Pixel-perfect layout
+- Fully responsive
+- BEM methodology
+- DRY code principles
+- Clean, semantic markup
+- Smooth section-to-section scroll
+
+## 📁 Project Status
+
+Finished and deployed. Matches the original design with attention to detail.
